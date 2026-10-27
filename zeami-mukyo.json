@@ -6,7 +6,12 @@
  "yomi": "むせきいっし",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "能楽論（追悼文）",
+  "era": "永享4年（1432）",
+  "author": "世阿弥",
+  "desc": "先立った長男元雅を悼んで書いた一文。"
+ },
  "editions": [
   {
    "pid": "859394",
